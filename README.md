@@ -1,3 +1,5 @@
+![Maturity level-0](https://img.shields.io/badge/Maturity%20Level-ML--0-red)
+
 Bioinformatics data analysis code accompanying: Taylor, J.D., Barrett, N., Martinez Cuesta, S. et al. Targeted protein degradation using chimeric human E2 ubiquitin-conjugating enzymes. Commun Biol 7, 1179 (2024). https://doi.org/10.1038/s42003-024-06803-4
 
 Software requirements:
